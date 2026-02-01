@@ -1,0 +1,1 @@
+CATEGORIES = ["sante","prevoyance","epargne_retraite"]
